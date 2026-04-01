@@ -26,11 +26,6 @@
     "category": "Frontend"
   },
   {
-    "name": "Bootstrap",
-    "icon": "https://img.icons8.com/color/48/000000/bootstrap.png",
-    "category": "Frontend"
-  },
-  {
     "name": "HTML5",
     "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png",
     "category": "Frontend"
@@ -38,11 +33,6 @@
   {
     "name": "CSS3",
     "icon": "https://img.icons8.com/color/48/000000/css3.png",
-    "category": "Frontend"
-  },
-  {
-    "name" : "Jquery",
-    "icon": "https://img.icons8.com/?size=48&id=UosOoyB3CzTS&format=png&color=000000",
     "category": "Frontend"
   },
   {
@@ -81,30 +71,10 @@
     "category": "Other"
   },
   {
-    "name": "MaterialUI",
-    "icon": "https://img.icons8.com/color/48/000000/material-ui.png",
-    "category": "Frontend"
-  },
-  {
-    "name": "Chakra UI",
-    "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png",
-    "category": "Frontend"
-  },
-  {
-    "name": "Googling",
-    "icon": "https://img.icons8.com/color/48/000000/google-logo.png",
-    "category": "Other"
-  },
-  {
     "name": "Postman",
     "icon": "https://voyager.postman.com/logo/postman-logo-icon-orange.svg", 
     "category": "Other"
-  },
-  {
-    "name" : "ChatGPT",
-    "icon" : "https://img.icons8.com/fluency/48/000000/chatgpt.png",
-    "category": "Other"
-  },
+  }, 
   {
     "name" : "VS Code",
     "icon" : "https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png",

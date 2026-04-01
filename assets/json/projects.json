@@ -1,16 +1,14 @@
 [
   {
-    "name": "JavaScript portfolio",
-    "description": "A JavaScript portfolio website showcasing my projects and skills.",
-    "image": "./assets/images/img/123.png",
-    "url": "https://myjs-projects.netlify.app",
-    "github": "https://github.com/SwarajThakre/js-portfolio"
+    "name": "CareBuddy",
+    "description": "A healthcare assistance platform that helps users manage appointments, medicines, health records, and doctor consultations in one place.",
+    "image": "./assets/images/img/CareBuddy.png",
+    "github": "https://github.com/ArkaMidya/CareBuddy"
   },
   {
-    "name": "Web Design Portfolio",
+    "name": "ShareBite",
     "description": "A portfolio website designed to showcase my web design skills and projects.",
-    "image": "./assets/images/img/Screenshot 2025-06-16 201624.png",
-    "url": "https://swarajthakre1.netlify.app/",
-    "github": "https://github.com/SwarajThakre/HTML-CSS-portfolio"
+    "image": "./assets/images/img/ShareBite.png",
+    "github": "https://github.com/swagger2006/ShareBite"
   }
 ]

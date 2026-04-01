@@ -1,15 +1,5 @@
 // page title
-document.addEventListener('visibilitychange', function () {
-  if (document.visibilityState === 'visible') {
-    document.title = 'Portfolio | Swaraj Thakre';
-    document.querySelector("link[rel*='icon']").href =
-      './assets/images/img/favicon.png';
-  } else {
-    document.title = 'Come Back To Portfolio';
-    document.querySelector("link[rel*='icon']").href =
-      './assets/images/img/favhand.png';
-  }
-});
+
 
 // smooth scrolling
 document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
@@ -70,7 +60,7 @@ document.addEventListener('DOMContentLoaded', initializeNavbarToggle);
 // typed js effect starts
 document.addEventListener('DOMContentLoaded', function () {
   var typed = new Typed('#typing-text', {
-    strings: ['frontend development', 'web designing', 'web development'],
+    strings: ['Full-Stack Developer', 'Tech-Enthusiast', 'Problem Solver', 'Learner'],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
