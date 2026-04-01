@@ -5,16 +5,11 @@ A responsive and modern personal portfolio website to showcase my skills, projec
 ## 🔗 Live Demo
 
 <p>
-  <a href="https://your-netlify-link.netlify.app/" target="_blank" style="padding: 8px 16px; background-color: #28a745; color: white; border-radius: 6px; text-decoration: none; font-weight: bold;">
-    🌐 View Netlify Portfolio
+  <a href="https://portfolio-tau-swart-71.vercel.app/" target="_blank" style="padding: 8px 16px; background-color: #28a745; color: white; border-radius: 6px; text-decoration: none; font-weight: bold;">
+    🌐 View Demo
   </a>
 </p>
 
-<p>
-  <a href="https://anshuaga.github.io/Portfolio/" target="_blank" style="padding: 8px 16px; background-color: #0366d6; color: white; border-radius: 6px; text-decoration: none; font-weight: bold;">
-    🔗 View GitHub Pages Portfolio
-  </a>
-</p>
 
 ---
 
@@ -51,10 +46,8 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Font Awesome and JSON
 
 Add your own screenshots here after uploading images of your portfolio.
 
-```md
 ![Home Page](./assets/images/img/home.png)
 ![Projects Section](./assets/images/img/projects.png)
-```
 
 ---
 
